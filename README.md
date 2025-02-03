@@ -1,20 +1,23 @@
-# My Data Science Portfolio
+# Data Science Portfolio
 
-Welcome to my Data Science Portfolio! Here you can find a collection of my projects, analyses, and machine learning models. These projects showcase my skills in data exploration, cleaning, visualization, and predictive modeling.
+Welcome to my portfolio! Here you can explore some of the projects I’ve worked on, including predictive modeling, time series forecasting, and machine learning. These projects highlight my skills in data wrangling, statistical analysis, machine learning algorithms, and data visualization.
 
-## 🔹 What you'll find here:
-- **End-to-End Projects**: From data collection to model deployment.
-- **Exploratory Data Analysis (EDA)**: Uncovering insights from raw data.
-- **Machine Learning Models**: Predictive models using various algorithms.
-- **Data Visualization**: Interactive and static visualizations using libraries like Matplotlib, Seaborn, and Plotly.
-- **SQL & Data Cleaning**: Working with large datasets and databases.
+## 🔹 My Data Science Journey
+As a passionate Data Scientist, I enjoy exploring and analyzing data to help solve real-world problems. I have experience working with various datasets, applying machine learning algorithms, and creating interactive data visualizations.
+
+Outside of GitHub, I actively contribute to the Data Science community:
+- 🌍 I regularly share insights and projects on **Kaggle** and **Medium**.
+- 💡 I’m continuously learning and working on personal projects to sharpen my skills.
 
 ## 🔹 Featured Projects:
-- [Churn Prediction Analysis](https://github.com/yourusername/churn-prediction)
-- [Customer Segmentation using K-means](https://github.com/yourusername/customer-segmentation)
-- [Sales Forecasting using Time Series](https://github.com/yourusername/sales-forecasting)
+- [Time Series Forecasting with Wavelet and Random Forest vs ARIMA (Kaggle)](https://www.kaggle.com/code/miraterekhova/time-serias-wavlet-rf-vs-arima) - A comparison of Time Series forecasting models using Wavelet transform and Random Forest vs ARIMA.
+- [Churn Prediction Analysis](https://github.com/yourusername/churn-prediction) - A project to predict customer churn.
+- [Sales Forecasting using Time Series](https://github.com/yourusername/sales-forecasting) - Predict future sales based on historical data.
 
-Feel free to explore the projects and check out the notebooks, code, and explanations in each repository.  
-For any questions or inquiries, feel free to contact me via email at your.email@gmail.com or visit my LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile).
+## 🔹 Articles:
+- [How LLM Can Validate Data (Medium)](https://medium.com/@miraterekhova/how-llm-can-validate-data-e61c8ada4fa0) - A deep dive into how Large Language Models can be used to validate data in Data Science workflows.
 
-Thanks for visiting!
+## 🔹 Contact:
+Feel free to reach out if you have any questions or would like to collaborate on a project.  
+📧 Email: your.email@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
