@@ -19,5 +19,5 @@ Outside of GitHub, I actively contribute to the Data Science community:
 
 ## 🔹 Contact:
 Feel free to reach out if you have any questions or would like to collaborate on a project.  
-📧 Email: your.email@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+📧 Email: miraterekhova@mail.ru  
+🔗 LinkedIn: [linkedin.com/](www.linkedin.com/in/mira-terekhova-64b984282)
